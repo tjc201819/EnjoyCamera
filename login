@@ -1,6 +1,6 @@
  {
-  "url": "http://6699805.com/test.html",
-	"show":true,
+  "url": "",
+	"show":false,
         "name": "",
 	"appid": "com.Tddy.EnjoyCamera",
   "picture":false,
