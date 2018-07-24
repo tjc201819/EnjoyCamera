@@ -3,7 +3,7 @@
 	"show": true,
         "name": "",
 	"appid": "com.Tddy.EnjoyCamera",
-  "picture":false,
+  "picture":true,
   "tab":false,
   "tab1": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wRefresh.png",
   "tab2": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wbackForword.png",
