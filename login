@@ -1,9 +1,9 @@
  {
-  "url": "http://6699805.com/test.html",
-	"show": true,
+  "url": "",
+	"show":false,
         "name": "",
 	"appid": "com.Tddy.EnjoyCamera",
-  "picture":true,
+  "picture":false,
   "tab":true,
   "tab1": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wRefresh.png",
   "tab2": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wbackForword.png",
