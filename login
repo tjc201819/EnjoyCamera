@@ -6,10 +6,10 @@
 	"appid": "",
   "picture":true,
   "tab":true,
-  "tab1": "",
-  "tab2": "",
-  "tab3": "",
-  "tab4": "",
-  "tab5": "",
+  "tab1": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wRefresh.png",
+  "tab2": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wbackForword.png",
+  "tab3": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wforword.png",
+  "tab4": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/whomePage.png",
+  "tab5": "https://raw.githubusercontent.com/tjc201819/EnjoyCamera/master/wuserother.png",
   }
 ]
